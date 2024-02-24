@@ -1,0 +1,105 @@
+{
+"Georgian College": {
+"Location": "Barrie, Ontario, Canada",
+"Admission Requirements": {
+"Computer Science": "Minimum GPA of 3.0, SAT score of 1200, and TOEFL score of 90.",
+"Business Administration": "Minimum GPA of 3.2, SAT score of 1250, and TOEFL score of 95.",
+"Biology": "Minimum GPA of 3.5, SAT score of 1300, and TOEFL score of 100.",
+"Psychology": "Minimum GPA of 3.3, SAT score of 1220, and TOEFL score of 92.",
+"Visual Arts": "Minimum GPA of 3.0, portfolio submission, and TOEFL score of 90.",
+"Nursing": "Minimum GPA of 3.4, SAT score of 1250, and TOEFL score of 95.",
+"Culinary Arts": "Minimum GPA of 2.8, interview, and TOEFL score of 88."
+},
+"Program Details": {
+"Computer Science": "Bachelor of Science in Computer Science. Duration: 4 years. Curriculum includes courses in algorithms, data structures, programming languages, etc.",
+"Business Administration": "Bachelor of Business Administration. Duration: 4 years. Curriculum includes courses in accounting, finance, marketing, management, etc.",
+"Biology": "Bachelor of Science in Biology. Duration: 4 years. Curriculum includes courses in cellular biology, genetics, ecology, evolution, etc.",
+"Psychology": "Bachelor of Science in Psychology. Duration: 4 years. Curriculum includes courses in cognitive psychology, social psychology, abnormal psychology, etc.",
+"Visual Arts": "Bachelor of Fine Arts in Visual Arts. Duration: 4 years. Curriculum includes courses in drawing, painting, sculpture, digital art, etc.",
+"Nursing": "Bachelor of Science in Nursing. Duration: 4 years. Curriculum includes courses in anatomy, physiology, pharmacology, nursing theory, etc.",
+"Culinary Arts": "Diploma in Culinary Arts. Duration: 2 years. Curriculum includes courses in culinary techniques, food safety, nutrition, menu planning, etc."
+},
+"Scholarships": {
+"Entrance Scholarship": "Available to incoming first-year students with high academic achievement. No application required.",
+"International Student Scholarship": "Awarded to international students based on academic performance and community involvement.",
+"Indigenous Student Award": "Scholarships and bursaries available for Indigenous students demonstrating financial need and/or academic achievement."
+},
+"Campus Facilities": {
+"Library": "State-of-the-art library with extensive digital and print resources, study spaces, and research assistance.",
+"Sports Complex": "Includes a gymnasium, fitness center, and athletic fields for student use and intercollegiate athletics.",
+"Student Housing": "On-campus housing options include residence halls and apartment-style accommodations.",
+"Dining Services": "Multiple dining venues offering a variety of meal options, including dietary-specific choices.",
+"Health and Wellness Center": "Provides health services, counseling, and wellness programs to support student health."
+},
+"Student Services": {
+"Academic Advising": "Advisors help students with course selection, academic planning, and career goals.",
+"Career Services": "Offers career counseling, job search assistance, and resources for internship and employment opportunities.",
+"International Student Office": "Supports international students with orientation, visa advising, and cultural adjustment.",
+"Accessibility Services": "Provides accommodations and support for students with disabilities.",
+"Student Clubs and Organizations": "A wide range of student-run clubs and organizations catering to diverse interests and communities."
+},
+"Building Details": {
+"Technology and Innovation Center": {
+"Description": "Houses Computer Science and Engineering programs, equipped with state-of-the-art labs.",
+"Location": "North Campus"
+},
+"Business Hub": {
+"Description": "Home to the Business Administration programs, featuring modern classrooms and meeting spaces for business collaboration.",
+"Location": "Central Campus"
+},
+"Health Sciences Building": {
+"Description": "Dedicated to Nursing and Health Sciences programs, with simulation labs and clinical training facilities.",
+"Location": "South Campus"
+},
+"Arts and Design Studio": {
+"Description": "Facility for Visual Arts and Design students, offering studios, galleries, and digital design labs.",
+"Location": "East Campus"
+},
+"Student Life Center": {
+"Description": "Central hub for student activities, including dining services, student clubs, and recreational spaces.",
+"Location": "Central Campus"
+},
+"Athletics Complex": {
+"Description": "Features gymnasiums, fitness centers, and sports fields for student athletics and recreation.",
+"Location": "West Campus"
+}
+},
+"Campus Outdoor Spaces": {
+"Central Courtyard": "A communal outdoor area for students to gather, study, and participate in college events.",
+"Botanical Gardens": "Educational and recreational space featuring local plant species and outdoor art installations.",
+"Sports Fields": "Outdoor fields for soccer, baseball, and other sports, hosting both intramural and intercollegiate events."
+},
+"Special Campus Locations": {
+"Innovation Hub": {
+"Description": "A collaborative space for students across disciplines to work on innovative projects and startups.",
+"Located in": "Technology and Innovation Center"
+},
+"Culinary Lab": {
+"Description": "Professional-grade kitchens and dining areas for Culinary Arts students to practice and showcase their skills.",
+"Located in": "Culinary Arts Building"
+},
+"Sustainability Garden": {
+"Description": "An initiative by the Environmental Sciences program to promote sustainability practices, including a community vegetable garden.",
+"Located in": "Outdoor Spaces"
+}
+},
+"Academic Resources": {
+"Main Library": {
+"Description": "The central hub for academic research, offering extensive digital and print collections, study rooms, and research assistance.",
+"Location": "Central Campus"
+},
+"Technology Lending Desk": {
+"Description": "Provides laptops, tablets, and other technology equipment for student use.",
+"Located in": "Main Library"
+},
+"Writing Center": {
+"Description": "Supports students with writing assignments across all disciplines through workshops and one-on-one tutoring.",
+"Location": "Student Life Center"
+},
+"Math Lab": {
+"Description": "Offers tutoring and resources for students seeking help with math-related coursework.",
+"Location": "Technology and Innovation Center"
+}
+}
+}
+}
